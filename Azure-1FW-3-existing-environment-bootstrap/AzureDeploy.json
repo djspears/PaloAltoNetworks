@@ -73,7 +73,7 @@
       "metadata": {
         "description": "Name of the EXISTING Virtual Network (VNET)"
       },
-      "defaultValue": "fwVNET"
+      "defaultValue": "VNET"
     },
     "virtualNetworkAddressPrefix": {
       "type": "string",
