@@ -180,14 +180,14 @@
     },
     "BootstrapUriSizeGB": {
       "type": "string",
-	"defaultValue": "1",
+      "defaultValue": "1",
       "metadata": {
         "description": "Size of the Bootstrap volume in GB"
       }
     },
     "BootstrapUri": {
       "type": "string",
-	"defaultValue": "https://djsboot.blob.core.windows.net/vhd/djsbootvhd.vhd",
+      "defaultValue": "https://bootstrapdjs.blob.core.windows.net/vhd/Bootstrap.vhd",
       "metadata": {
         "description": "URI for the page blob containing the bootstrap files"
       }
